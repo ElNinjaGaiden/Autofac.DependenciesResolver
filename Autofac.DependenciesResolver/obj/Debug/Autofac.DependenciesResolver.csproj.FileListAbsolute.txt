@@ -1,7 +1,7 @@
 C:\Users\dgarcia\Documents\GitHub\Autofac.DependenciesResolver\Autofac.DependenciesResolver\bin\Debug\Autofac.DependenciesResolver.dll
 C:\Users\dgarcia\Documents\GitHub\Autofac.DependenciesResolver\Autofac.DependenciesResolver\bin\Debug\Autofac.DependenciesResolver.pdb
+C:\Users\dgarcia\Documents\GitHub\Autofac.DependenciesResolver\Autofac.DependenciesResolver\bin\Debug\Autofac.dll
+C:\Users\dgarcia\Documents\GitHub\Autofac.DependenciesResolver\Autofac.DependenciesResolver\bin\Debug\Autofac.xml
 C:\Users\dgarcia\Documents\GitHub\Autofac.DependenciesResolver\Autofac.DependenciesResolver\obj\Debug\Autofac.DependenciesResolver.csprojResolveAssemblyReference.cache
 C:\Users\dgarcia\Documents\GitHub\Autofac.DependenciesResolver\Autofac.DependenciesResolver\obj\Debug\Autofac.DependenciesResolver.dll
 C:\Users\dgarcia\Documents\GitHub\Autofac.DependenciesResolver\Autofac.DependenciesResolver\obj\Debug\Autofac.DependenciesResolver.pdb
-C:\Users\dgarcia\Documents\GitHub\Autofac.DependenciesResolver\Autofac.DependenciesResolver\bin\Debug\Autofac.dll
-C:\Users\dgarcia\Documents\GitHub\Autofac.DependenciesResolver\Autofac.DependenciesResolver\bin\Debug\Autofac.xml

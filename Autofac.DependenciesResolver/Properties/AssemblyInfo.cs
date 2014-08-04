@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Autofac.DependenciesResolver")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Autofac dependencies loader (by configuration)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Diego Garcia")]
 [assembly: AssemblyProduct("Autofac.DependenciesResolver")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]

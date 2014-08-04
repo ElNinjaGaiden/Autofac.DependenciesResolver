@@ -1,0 +1,3 @@
+Autofac.DependenciesResolver
+=======================
+Documentation under construction...
