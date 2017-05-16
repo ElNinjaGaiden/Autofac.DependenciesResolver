@@ -6,7 +6,7 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <projectUrl>https://github.com/Yoinbol/Autofac.DependenciesResolver</projectUrl>
+    <projectUrl>https://github.com/ElNinjaGaiden/Autofac.DependenciesResolver</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <tags>Autofac DependencyInjection InversionOfControl</tags>
